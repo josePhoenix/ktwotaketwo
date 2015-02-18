@@ -1,0 +1,5 @@
+# GO 0063
+RA,Dec,Mag,Name,Shortname,K2ID,Dataset,URL
+093.479095,26.882500,18.0,K 3-71,k371,202065169,KTWO202065169-C00,http://archive.stsci.edu/pub/k2/target_pixel_files/c0/202000000/65000/ktwo202065169-c00_lpd-targ.fits.gz
+095.420833,23.586944,19.0,HoCr 1,hocr1,202065170,KTWO202065170-C00,http://archive.stsci.edu/pub/k2/target_pixel_files/c0/202000000/65000/ktwo202065170-c00_lpd-targ.fits.gz
+096.488487,17.790980,17.8,J900,j900,202060054,KTWO202060054-C00,http://archive.stsci.edu/pub/k2/target_pixel_files/c0/202000000/60000/ktwo202060054-c00_lpd-targ.fits.gz

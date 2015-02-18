@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+pyraf
+uparm
+.ipynb_checkpoints/
+*.log
